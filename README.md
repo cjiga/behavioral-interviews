@@ -526,7 +526,7 @@ was causing him all sorts of anxiety issues because that family member staying i
 
 ## Communication
 <details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
+<summary><b> 31.- Describe a situation where you had to use your communication skills to resolve a conflict.</b></summary>
 <ul>
   <li>
     <b>Situation: </b> 
@@ -543,7 +543,7 @@ was causing him all sorts of anxiety issues because that family member staying i
 </ul>
 </details>
 <details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
+<summary><b> 32.- Tell me about a time when you had to give critical feedback to someone. How did you approach it?</b></summary>
 <ul>
   <li>
     <b>Situation: </b> 
@@ -560,7 +560,7 @@ was causing him all sorts of anxiety issues because that family member staying i
 </ul>
 </details>
 <details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
+<summary><b> 33.- Describe a project where you took a creative approach to solve a problem.</b></summary>
 <ul>
   <li>
     <b>Situation: </b> 
@@ -577,7 +577,7 @@ was causing him all sorts of anxiety issues because that family member staying i
 </ul>
 </details>
 <details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
+<summary><b> 34.- Can you provide an example of a time when you had to juggle several projects at the same time?</b></summary>
 <ul>
   <li>
     <b>Situation: </b> 
@@ -594,7 +594,7 @@ was causing him all sorts of anxiety issues because that family member staying i
 </ul>
 </details>
 <details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
+<summary><b> 35.- How do you prioritize your work when you have multiple projects to handle?</b></summary>
 <ul>
   <li>
     <b>Situation: </b> 
@@ -611,7 +611,7 @@ was causing him all sorts of anxiety issues because that family member staying i
 </ul>
 </details>
 <details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
+<summary><b> 36.- Describe a time when you had to use your negotiation skills.</b></summary>
 <ul>
   <li>
     <b>Situation: </b> 
@@ -628,7 +628,7 @@ was causing him all sorts of anxiety issues because that family member staying i
 </ul>
 </details>
 <details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
+<summary><b> 37.- Tell me about a time when you had to manage conflicting priorities.</b></summary>
 <ul>
   <li>
     <b>Situation: </b> 
@@ -645,7 +645,7 @@ was causing him all sorts of anxiety issues because that family member staying i
 </ul>
 </details>
 <details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
+<summary><b> 38.- How do you handle constructive criticism?</b></summary>
 <ul>
   <li>
     <b>Situation: </b> 
@@ -662,7 +662,7 @@ was causing him all sorts of anxiety issues because that family member staying i
 </ul>
 </details>
 <details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
+<summary><b> 39.- Can you describe a time when you had to communicate complex information clearly?</b></summary>
 <ul>
   <li>
     <b>Situation: </b> 
@@ -679,211 +679,7 @@ was causing him all sorts of anxiety issues because that family member staying i
 </ul>
 </details>
 <details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
-<ul>
-  <li>
-    <b>Situation: </b> 
-  </li>
-  <li>
-    <b>Task: </b> 
-  </li>
-  <li>
-    <b>Action: </b> 
-  </li>
-  <li>
-    <b>Result: </b> 
-  </li>
-</ul>
-</details>
-<details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
-<ul>
-  <li>
-    <b>Situation: </b> 
-  </li>
-  <li>
-    <b>Task: </b> 
-  </li>
-  <li>
-    <b>Action: </b> 
-  </li>
-  <li>
-    <b>Result: </b> 
-  </li>
-</ul>
-</details>
-<details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
-<ul>
-  <li>
-    <b>Situation: </b> 
-  </li>
-  <li>
-    <b>Task: </b> 
-  </li>
-  <li>
-    <b>Action: </b> 
-  </li>
-  <li>
-    <b>Result: </b> 
-  </li>
-</ul>
-</details>
-<details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
-<ul>
-  <li>
-    <b>Situation: </b> 
-  </li>
-  <li>
-    <b>Task: </b> 
-  </li>
-  <li>
-    <b>Action: </b> 
-  </li>
-  <li>
-    <b>Result: </b> 
-  </li>
-</ul>
-</details>
-<details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
-<ul>
-  <li>
-    <b>Situation: </b> 
-  </li>
-  <li>
-    <b>Task: </b> 
-  </li>
-  <li>
-    <b>Action: </b> 
-  </li>
-  <li>
-    <b>Result: </b> 
-  </li>
-</ul>
-</details>
-<details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
-<ul>
-  <li>
-    <b>Situation: </b> 
-  </li>
-  <li>
-    <b>Task: </b> 
-  </li>
-  <li>
-    <b>Action: </b> 
-  </li>
-  <li>
-    <b>Result: </b> 
-  </li>
-</ul>
-</details>
-<details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
-<ul>
-  <li>
-    <b>Situation: </b> 
-  </li>
-  <li>
-    <b>Task: </b> 
-  </li>
-  <li>
-    <b>Action: </b> 
-  </li>
-  <li>
-    <b>Result: </b> 
-  </li>
-</ul>
-</details>
-<details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
-<ul>
-  <li>
-    <b>Situation: </b> 
-  </li>
-  <li>
-    <b>Task: </b> 
-  </li>
-  <li>
-    <b>Action: </b> 
-  </li>
-  <li>
-    <b>Result: </b> 
-  </li>
-</ul>
-</details>
-<details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
-<ul>
-  <li>
-    <b>Situation: </b> 
-  </li>
-  <li>
-    <b>Task: </b> 
-  </li>
-  <li>
-    <b>Action: </b> 
-  </li>
-  <li>
-    <b>Result: </b> 
-  </li>
-</ul>
-</details>
-<details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
-<ul>
-  <li>
-    <b>Situation: </b> 
-  </li>
-  <li>
-    <b>Task: </b> 
-  </li>
-  <li>
-    <b>Action: </b> 
-  </li>
-  <li>
-    <b>Result: </b> 
-  </li>
-</ul>
-</details>
-<details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
-<ul>
-  <li>
-    <b>Situation: </b> 
-  </li>
-  <li>
-    <b>Task: </b> 
-  </li>
-  <li>
-    <b>Action: </b> 
-  </li>
-  <li>
-    <b>Result: </b> 
-  </li>
-</ul>
-</details>
-<details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
-<ul>
-  <li>
-    <b>Situation: </b> 
-  </li>
-  <li>
-    <b>Task: </b> 
-  </li>
-  <li>
-    <b>Action: </b> 
-  </li>
-  <li>
-    <b>Result: </b> 
-  </li>
-</ul>
-</details>
-<details>
-<summary><b> 23.- Can you talk about a time when you had to work under pressure?</b></summary>
+<summary><b> 40.- Describe a situation where you had to actively listen to someone to understand their perspective.</b></summary>
 <ul>
   <li>
     <b>Situation: </b> 
@@ -900,6 +696,174 @@ was causing him all sorts of anxiety issues because that family member staying i
 </ul>
 </details>
 
-
-
-    
+## Leadership
+<details>
+<summary><b> 41.- Give an example of a goal you set and how you achieved it.</b></summary>
+<ul>
+  <li>
+    <b>Situation: </b> 
+  </li>
+  <li>
+    <b>Task: </b> 
+  </li>
+  <li>
+    <b>Action: </b> 
+  </li>
+  <li>
+    <b>Result: </b> 
+  </li>
+</ul>
+</details>
+<details>
+<summary><b> 42.- Have you ever had to make an unpopular decision? How did you handle the feedback?</b></summary>
+<ul>
+  <li>
+    <b>Situation: </b> 
+  </li>
+  <li>
+    <b>Task: </b> 
+  </li>
+  <li>
+    <b>Action: </b> 
+  </li>
+  <li>
+    <b>Result: </b> 
+  </li>
+</ul>
+</details>
+<details>
+<summary><b> 43.- Have you ever worked on a project that failed? What did you learn from that experience?</b></summary>
+<ul>
+  <li>
+    <b>Situation: </b> 
+  </li>
+  <li>
+    <b>Task: </b> 
+  </li>
+  <li>
+    <b>Action: </b> 
+  </li>
+  <li>
+    <b>Result: </b> 
+  </li>
+</ul>
+</details>
+<details>
+<summary><b> 44.- Can you give an example of how you have handled a high-stress situation?</b></summary>
+<ul>
+  <li>
+    <b>Situation: </b> 
+  </li>
+  <li>
+    <b>Task: </b> 
+  </li>
+  <li>
+    <b>Action: </b> 
+  </li>
+  <li>
+    <b>Result: </b> 
+  </li>
+</ul>
+</details>
+<details>
+<summary><b> 45.- Tell me about a time when you had to take responsibility for an error made by someone else.</b></summary>
+<ul>
+  <li>
+    <b>Situation: </b> 
+  </li>
+  <li>
+    <b>Task: </b> 
+  </li>
+  <li>
+    <b>Action: </b> 
+  </li>
+  <li>
+    <b>Result: </b> 
+  </li>
+</ul>
+</details>
+<details>
+<summary><b> 46.- How do you assess the success of a project? Give an example.</b></summary>
+<ul>
+  <li>
+    <b>Situation: </b> 
+  </li>
+  <li>
+    <b>Task: </b> 
+  </li>
+  <li>
+    <b>Action: </b> 
+  </li>
+  <li>
+    <b>Result: </b> 
+  </li>
+</ul>
+</details>
+<details>
+<summary><b> 47.- Tell me about a time when you had to decide without all the information you needed.</b></summary>
+<ul>
+  <li>
+    <b>Situation: </b> 
+  </li>
+  <li>
+    <b>Task: </b> 
+  </li>
+  <li>
+    <b>Action: </b> 
+  </li>
+  <li>
+    <b>Result: </b> 
+  </li>
+</ul>
+</details>
+<details>
+<summary><b> 48.- Describe a situation where you had to analyze data and make a recommendation. What approach did you take?</b></summary>
+<ul>
+  <li>
+    <b>Situation: </b> 
+  </li>
+  <li>
+    <b>Task: </b> 
+  </li>
+  <li>
+    <b>Action: </b> 
+  </li>
+  <li>
+    <b>Result: </b> 
+  </li>
+</ul>
+</details>
+<details>
+<summary><b> 49.- Have you ever faced an ethical dilemma at work? How did you handle it?</b></summary>
+<ul>
+  <li>
+    <b>Situation: </b> 
+  </li>
+  <li>
+    <b>Task: </b> 
+  </li>
+  <li>
+    <b>Action: </b> 
+  </li>
+  <li>
+    <b>Result: </b> 
+  </li>
+</ul>
+</details>
+<details>
+<summary><b> 50.- Describe a situation where you took a risk and it paid off.</b></summary>
+<ul>
+  <li>
+    <b>Situation: </b> 
+  </li>
+  <li>
+    <b>Task: </b> 
+  </li>
+  <li>
+    <b>Action: </b> 
+  </li>
+  <li>
+    <b>Result: </b> 
+  </li>
+</ul>
+</details>
